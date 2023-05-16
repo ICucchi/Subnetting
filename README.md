@@ -6,7 +6,7 @@ La suddivisione di una rete IP in subnet consente di assegnare porzioni di indir
 L'indirizzo IP di una rete viene composto da due parti: l'indirizzo di rete e l'indirizzo di host, si usa il concetto di subnetting se è possibile modificare la lunghezza del prefisso di rete (netmask) per creare sotto-reti più piccole.
 Per effettuare il subnetting tra le reti ho seguito questi passaggi:
 
-Scelto il numero di subnet necessarie, sapendo che il numero di reti che sono creare e identificare la quantità di indirizzi IP necessari per ciascuna subnet.
+Scelto il numero di subnet necessarie, sapendo il numero di reti che sono da creare e identificare la quantità di indirizzi IP necessari per ciascuna subnet.
 
 Ho scelto la classe di indirizzo IP, quindi se utilizzare un indirizzo IP di classe A, B o C.
 
